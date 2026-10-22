@@ -59,3 +59,5 @@ data/sugar-xo.gtkrc
 data/sugar-emulator.desktop
 data/org.sugar.brightness.policy
 data/org.sugar.serial-number.policy
+config.bat
+node_modules
